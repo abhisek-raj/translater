@@ -1,0 +1,40 @@
+# Core Dependencies
+streamlit
+googletrans
+python-dotenv
+
+# Data Processing
+pandas
+numpy
+scikit-learn
+spacy
+
+# NLP Libraries
+nltk
+textblob
+afinn
+langdetect
+emoji
+pyspellchecker
+statsmodels
+
+# Visualization
+matplotlib
+plotly
+
+# Development & Testing
+pytest
+pytest-mock
+pylint
+black
+flake8
+
+# Optional Dependencies
+requests
+
+# For future translation features
+translate
+sentencepiece  # Required for some translation models
+
+# For enhanced text processing
+regex
